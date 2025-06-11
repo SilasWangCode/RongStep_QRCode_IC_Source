@@ -1,2 +1,6 @@
-# RongStep_QRCode_IC_Source
-QRCode IC Source code.
+
+## RongStep_QRCode_IC_Source
+- empty now
+## Description 
+- QRCode IC Source code.
+
